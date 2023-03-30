@@ -16,15 +16,30 @@ def getCollection(dbName):
     return dbName["love_checker"]
 
 
-'''
 def getDocuments(collectionName):
+    document_1 = {
+        "message": "What do you think of the person I am crushing on?",
+        "love": 0,
+        "neutral": 0,
+        "hate": 1
+    }
 
-    collectionName.insert_many([document1, document2])
-'''
+    collectionName.insert_one(document_1)
+
+
+def csvToDB(file, collectionName):
+    with open(file, encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for rows in csvReader:
+            collectionName.insert_one(rows)
+    print("Success!")
+
 
 if __name__ == "__main__":
     dbName = getDatabase()
     collectionName = getCollection(dbName)
+    getDocuments(collectionName)
+    # csvToDB('dummy_love_data - Sheet2.csv', collectionName)
     love_df = pd.DataFrame(columns=["message", "sentiment"])
 
     for record in collectionName.find():
