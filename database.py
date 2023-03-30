@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 import pandas as pd
+import csv
 
 
 def getDatabase():
@@ -17,23 +18,9 @@ def getCollection(dbName):
 
 '''
 def getDocuments(collectionName):
-    document1 = {
-        "message": "<3",
-        "love": 0,
-        "neutral": 0,
-        "hate": 0
-    }
-
-    document2 = {
-        "message": "</3",
-        "love": 0,
-        "neutral": 0,
-        "hate": 0
-    }
 
     collectionName.insert_many([document1, document2])
 '''
-
 
 if __name__ == "__main__":
     dbName = getDatabase()

@@ -1,0 +1,176 @@
+message,love,neutral,hate
+"Good morning, beautiful! How did you sleep?",1,0,0
+"I slept well, thanks for asking! How about you?",0,1,0
+"I slept like a baby, dreaming about you :)",1,0,0
+"Aww, that's sweet!",1,0,0
+Can't wait to see you later today!,1,0,0
+"Me too, I'm looking forward to it!",1,0,0
+I miss you so much already.,1,0,0
+I miss you too.,1,0,0
+"Hey, do you want to grab dinner tonight?",0,1,0
+"Sorry, I can't tonight. Maybe another time?",0,1,0
+"Sure, no problem. Love you!",1,0,0
+Love you too!,1,0,0
+I can't stop thinking about you.,1,0,0
+That's so sweet. I'm glad you feel that way.,1,0,0
+You make me so happy :),1,0,0
+"Aw, you make me happy too.",1,0,0
+I just want to hold you in my arms forever.,1,0,0
+"That's so romantic, I love it.",1,0,0
+I'm so lucky to have you in my life.,1,0,0
+I feel the same way about you.,1,0,0
+"Hey, can I come over tonight?",0,1,0
+"Sorry, I'm really tired tonight. Can we raincheck?",0,1,0
+"No problem, love you anyway :)",1,0,0
+I don't know what I'd do without you.,1,0,0
+"You don't have to worry about that, I'm here for you.",1,0,0
+I'm so grateful to have you as my partner.,1,0,0
+I feel the same way about you. You're the best thing that's ever happened to me.,1,0,0
+"Hey, are you free this weekend?",0,0,0
+"Sorry, I have plans already. How about next weekend?",0,0,0
+"Sure, that works. Love you!",1,0,0
+Love you too.,1,0,0
+I just want to kiss you right now.,1,0,0
+"Haha, that's cute. I wish I could kiss you too.",1,0,0
+I love the way you make me feel.,1,0,0
+That makes me so happy to hear. You make me feel the same way.,1,0,0
+Can't wait to see you again soon!,1,0,0
+"Me too, I miss you already.",1,0,0
+I just had a bad day at work :(,0,0,1
+I'm sorry to hear that. Want to talk about it?,0,1,0
+"Not really, I just want to forget about it and cuddle with you.",1,0,0
+Sounds good to me. Can't wait to see you.,1,0,0
+You're the best thing that's ever happened to me.,1,0,0
+"That's so sweet, thank you. You're the best thing that's ever happened to me too.",1,0,0
+I'm so glad we found each other.,1,0,0
+Me too. I can't imagine my life without you.,1,0,0
+"Hey, can we talk about something serious for a second?",0,1,0
+"Sure, what's up?",0,1,0
+I just want to say that I don't think this is working out between us.,0,0,1
+"Oh, I'm sorry to hear that. Is there anything I can do to fix things?",0,1,
+"Hey, what's up?",0,1,0
+"Not much, just hanging out. How about you?",0,1,0
+"Same here. So, I've been thinking...",0,1,0
+What's on your mind?,0,1,0
+I don't think this is working out between us.,0,1,0
+What do you mean? Is something wrong?,0,1,0
+I just don't feel the same way about you anymore.,0,0,1
+Oh... I see.,0,0,1
+"I hope you understand. It's not you, it's me.",0,1,0
+"No, I understand. It's just hard to hear.",0,1,0
+"I'm sorry, I didn't mean to hurt you.",0,1,0
+It's okay. I'll be alright.,0,1,0
+"I just don't want to waste your time or mine, you know?",0,1,0
+"Yeah, I get it.",0,1,0
+"So, I think it's best if we end things now.",0,0,1
+Okay. I appreciate your honesty.,0,1,0
+I just don't want to lead you on.,0,1,0
+I know. Thanks for being upfront with me.,0,1,0
+"I still care about you, though. You're a great person.",1,0,0
+Thank you. I feel the same way about you.,1,0,0
+I hope we can still be friends.,1,0,0
+"Yeah, me too. It might take some time, though.",1,0,0
+I understand. Take all the time you need.,0,1,0
+"I'm sorry, I just don't feel the same way about you anymore.",0,0,1
+"I know, you've made that clear.",0,1,0
+I hope we can still be civil and friendly towards each other.,1,0,0
+Of course. I don't want any bad blood between us.,1,0,0
+That's good to hear. Thanks for understanding.,1,0,0
+No problem.,0,1,0
+I just think we're better off as friends.,1,0,0
+"Yeah, maybe that's for the best.",0,1,0
+"I don't want to hurt you, but I have to be honest with myself.",0,1,0
+I appreciate your honesty.,0,1,0
+I just don't think we're right for each other.,0,0,1
+That's alright. I'm sure we'll both find someone who is right for us.,1,0,0
+"Yeah, I hope so.",1,0,0
+Is there anything I can do to change your mind?,0,1,0
+"I don't think so, I'm sorry.",0,1,0
+"Okay, I understand.",0,1,0
+I'm here if you ever need anything.,1,0,0
+"Thanks, same to you.",1,0,0
+I just don't think we're a good fit.,0,0,1
+I hope we can both find what we're looking for.,1,0,0
+I just don't feel the same way about you as I used to.,0,0,1
+"I see. It's okay, feelings change.",0,1,0
+"Good morning, my love! Did you sleep well?",1,0,0
+"Good morning, my darling! Yes, I did, but I would have slept even better if you were here with me.",1,0,0
+"I know, me too. I wish we could wake up next to each other every day.",1,0,0
+Someday we will. I promise.,1,0,0
+I can't wait for that day. You make me so happy.,1,0,0
+"You make me happy too, my love. I don't know what I would do without you.",1,0,0
+You don't have to worry about that. I'm never leaving your side.,1,0,0
+And I'm never leaving yours. I love you so much.,1,0,0
+"I love you too, more than anything in this world.",1,0,0
+You are my everything. I can't imagine my life without you.,1,0,0
+Same here. You complete me.,1,0,0
+You're my soulmate. I feel like we were meant to be together.,1,0,0
+"I believe that too. We have a connection that's so strong, nothing can break it.",1,0,0
+I feel it too. I never want to let you go.,1,0,0
+You don't have to. I'm yours forever.,1,0,0
+And I'm yours. Forever and always.,1,0,0
+You know what I love most about you?,1,0,0
+Everything. I love everything about you.,1,0,0
+"Aww, you're so sweet. I love everything about you too.",1,0,0
+I never get tired of telling you how much I love you.,1,0,0
+And I never get tired of hearing it. I love you more and more every day.,1,0,0
+You always know how to make me feel loved.,1,0,0
+"That's because you deserve to feel loved. You are so amazing, my love.",1,0,0
+You are amazing too. I'm so lucky to have you in my life.,1,0,0
+"No, I'm the lucky one. You are my dream come true.",1,0,0
+You're making me blush. I love you so much.,1,0,0
+And I love you more. I can't wait to spend the rest of my life with you.,1,0,0
+Me too. I'm excited for our future together.,1,0,0
+We have so many adventures to look forward to.,1,0,0
+And I want to experience them all with you. You make everything better.,1,0,0
+You make everything better too. I don't know what I did to deserve you.,1,0,0
+"You didn't do anything. You were just being you, and that's enough for me.",1,0,0
+You always know how to make me feel special.,1,0,0
+That's because you are special. You mean everything to me.,1,0,0
+And you mean everything to me. I can't imagine my life without you.,1,0,0
+I don't ever want to be without you. You are my forever.,1,0,0
+And you are mine. Forever and always.,1,0,0
+I love you more than anything in this world.,1,0,0
+And I love you more than anything in this universe.,1,0,0
+I never want to stop loving you.,1,0,0
+And I never want to stop loving you. You are my one and only.,1,0,0
+You're my one and only,1,0,0
+"Not much, just hanging out. How about you?",0,1,0
+Same here. Just taking it easy.,0,1,0
+Cool. Anything interesting happen lately?,0,1,0
+Not really. How about you?,0,1,0
+Same here. It's been pretty quiet.,0,1,0
+"Yeah, I guess it has. So, what are you up to today?",0,1,0
+Nothing much. Just running some errands. How about you?,0,1,0
+"I have some work to catch up on, but nothing too crazy.",0,1,0
+That sounds good. Do you have any plans for the weekend?,0,1,0
+Not yet. How about you?,0,1,0
+Same here. I was thinking of maybe going to the beach or something.,0,1,0
+That sounds fun. I might just relax at home.,0,1,0
+"Yeah, that's always a good option. What are you watching on TV these days?",0,1,0
+"Not much, to be honest. How about you?",0,1,0
+I've been watching this new show on Netflix. It's pretty good.,0,1,0
+"Oh, cool. What's it about?",0,1,0
+It's about a group of friends who start a business together. It's pretty funny.,0,1,0
+Sounds interesting. Maybe I'll check it out. Do you have any recommendations for a good book?,0,1,0
+"Actually, yeah. I just finished reading this book called ""The Midnight Library"" and it was really good.",0,1,0
+"Thanks, I'll have to check it out. Have you been to any good restaurants lately?",0,1,0
+Not really. I've just been cooking at home mostly. How about you?,0,1,0
+Same here. It's been a while since I've gone out to eat.,0,1,0
+"Yeah, me too. I miss trying new restaurants. Maybe we can go out to eat together soon.",0,1,0
+That sounds like a great idea. Let's plan something soon.,0,1,0
+Sounds good to me. Do you have any pets?,0,1,0
+"No, I don't. How about you?",0,1,0
+I have a dog. His name is Max. He's pretty cute.,0,1,0
+"Aw, that's adorable. I love dogs.",0,1,0
+"Yeah, me too. He's a handful sometimes, but he's worth it.",0,1,0
+I can imagine. Maybe I'll get a pet someday.,0,1,0
+"Yeah, they can be a lot of work, but they're worth it. Do you have any travel plans coming up?",0,1,0
+"Not really. I was thinking of maybe taking a road trip somewhere, but I haven't decided yet.",0,1,0
+That sounds like fun. Where were you thinking of going?,0,1,0
+"Maybe up the coast, or to the mountains. I'm not sure yet.",0,1,0
+Either of those sound like a good choice. I hope you have a great time.,0,1,0
+"Thanks, me too. It's always nice to get away for a bit.",0,1,0
+"Yeah, it definitely is. Well, I should probably get going. It was nice chatting with you.",0,1,0
+Same here. Take care and talk to you soon.,0,1,0
+You too. Bye.,0,1,0
